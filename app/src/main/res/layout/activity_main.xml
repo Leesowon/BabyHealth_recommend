@@ -16,11 +16,5 @@
         android:background="@android:color/transparent"
      />
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="60dp"
-        android:layout_gravity="center"
-        android:text="헬린이" />
-
 
 </LinearLayout>
